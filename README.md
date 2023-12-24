@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksei</h1>
 <h3 align="center">Passionate about AI, Remote Sensing and Climate</h3>
 
-<img align='center' alt='Coding' width='400' src='https://i.pinimg.com/originals/41/3c/22/413c224cd9f9760676b598939379a6e6.gif'>
+<img align='center' alt='Coding' width='2500' src='https://i.pinimg.com/originals/41/3c/22/413c224cd9f9760676b598939379a6e6.gif'>
 
 - 🔭 I’m currently working on **NorthFlux**
 
