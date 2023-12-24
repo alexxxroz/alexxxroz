@@ -21,4 +21,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxxroz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="alexxxroz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexxxroz&theme=dark" alt="alexxxroz" /></p>
-
