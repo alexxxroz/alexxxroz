@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aleksei</h1>
-<h3 align="center">Passionate about AI, Remote Sensing and Climate</h3>
+<h3 align="center">Data Science | (Geo)Data Analysis | Machine Learning&AI | Remote Sensing</h3>
 
 <img align='center' alt='Coding' width='2500' src='https://i.pinimg.com/originals/41/3c/22/413c224cd9f9760676b598939379a6e6.gif'>
 
-- 🔭 I’m currently working on **NorthFlux**
+- 🔭 I’m currently working on **NorthFlux: upscaling carbon fluxes in the northern hemisphere**
 
-- 🌱 I’m currently learning **JS and D3.js**
+- 🌱 I’m currently learning **node.js and D3.js**
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@alexroz)
 
 - 📫 How to reach me **daily.apr@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
