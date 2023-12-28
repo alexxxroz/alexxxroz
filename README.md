@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksei</h1>
 <h3 align="center">Data Science | (Geo)Data Analysis | Machine Learning&AI | Remote Sensing</h3>
 
-<img align='center' alt='Coding' width='2500' src='https://i.pinimg.com/originals/41/3c/22/413c224cd9f9760676b598939379a6e6.gif'>
+<img align='right' alt='Coding' width='250' src='https://media1.giphy.com/media/3ohs873OdgNQGu017G/200.gif?cid=6c09b95259t2lz22n9i3uwmsny5v29nxipos41m1vnd005vq&ep=v1_gifs_search&rid=200.gif&ct=g'>
 
 - 🔭 I’m currently working on **NorthFlux: upscaling carbon fluxes in the northern hemisphere**
 
