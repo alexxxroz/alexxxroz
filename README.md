@@ -3,7 +3,7 @@
 
 <img align='right' alt='Coding' width='250' src='https://media1.giphy.com/media/3ohs873OdgNQGu017G/200.gif?cid=6c09b95259t2lz22n9i3uwmsny5v29nxipos41m1vnd005vq&ep=v1_gifs_search&rid=200.gif&ct=g'>
 
-- 🔭 I’m currently working on **NorthFlux: upscaling carbon fluxes in the northern hemisphere**
+- 🔭 I’m currently working on my start up [Atmospherix](http://atmospherix.earth/)
 
 - 🌱 I’m currently learning **node.js and D3.js**
 
